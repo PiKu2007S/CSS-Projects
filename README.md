@@ -1,2 +1,2 @@
 # CSS-Projects
-I craete some intresting CSS projects like Glassmorphism, Neumorphism, etc.
+I create some intresting CSS projects like Glassmorphism, Neumorphism, etc.
